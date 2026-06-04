@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="33 20 139 137" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.st0 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }</style>
+</defs>
+<path class="st0" d="M151.5,85.6v59.9c0,4.1-3.4,7.5-7.5,7.5H61.5c-4.1,0-7.5-3.4-7.5-7.5v-59.9"/>
+<polyline class="st0" points="167.8 87.2 102.7 24.7 37.7 87.2"/>
+<line class="st0" x1="93.2" x2="112.2" y1="127.5" y2="127.5"/>
+<line class="st0" x1="98.1" x2="107.4" y1="134.5" y2="134.5"/>
+<polyline class="st0" points="102.5 81.8 97.8 91.2 107.7 91 101.9 101.7"/>
+<path class="st0" d="m102.6 119.7h11.3s-0.2-2.7-0.2-2.7c0-6.7 3.4-9 6.1-11.8 5.9-6.2 6.5-9.9 6.5-16.2 0-12.9-10.5-23.4-23.4-23.4s-23.4 10.5-23.4 23.4 0.5 9.9 6.5 16.2c2.7 2.8 6.1 5.1 6.1 11.8l-0.2 2.7h10.8"/>
+</svg>

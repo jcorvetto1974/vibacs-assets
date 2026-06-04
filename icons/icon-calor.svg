@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="33 20 139 137" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.st0 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }</style>
+</defs>
+<circle class="st0" cx="102.7" cy="88.8" r="35.5"/>
+<line class="st0" x1="102.7" x2="102.7" y1="20.3" y2="41.5"/>
+<line class="st0" x1="102.7" x2="102.7" y1="136.2" y2="157.4"/>
+<line class="st0" x1="151.3" x2="136.3" y1="40.5" y2="55.5"/>
+<line class="st0" x1="69.2" x2="54.1" y1="122.2" y2="137.2"/>
+<line class="st0" x1="171.3" x2="150.1" y1="89.2" y2="89.1"/>
+<line class="st0" x1="55.4" x2="34.2" y1="88.6" y2="88.5"/>
+<line class="st0" x1="150.8" x2="135.9" y1="137.7" y2="122.6"/>
+<line class="st0" x1="69.5" x2="54.7" y1="55.1" y2="40"/>
+</svg>

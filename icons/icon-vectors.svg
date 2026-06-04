@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="33 20 139 137" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.st0 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }</style>
+</defs>
+<circle class="st0" cx="102.7" cy="66.8" r="4.4"/>
+<line class="st0" x1="102.7" x2="102.7" y1="62.3" y2="40.3"/>
+<line class="st0" x1="111.6" x2="105.1" y1="53.5" y2="63"/>
+<line class="st0" x1="93.9" x2="100.4" y1="53.5" y2="63"/>
+<polyline class="st0" points="131.4 29.2 122.6 44.7 127 60.1 113.8 73.4"/>
+<polyline class="st0" points="74 29.2 82.9 44.7 78.4 60.1 91.7 73.4"/>
+<path class="st0" d="m102.7 71.2c2.7 1.4 4.4 4.1 4.4 7.1v14.4c0 3-1.7 5.8-4.4 7.1-2.7-1.4-4.4-4.1-4.4-7.1v-14.4c0-3 1.7-5.8 4.4-7.1z"/>
+<path class="st0" d="m102.7 99.9c2.7 1.4 4.4 4.1 4.4 7.1v21c0 3-1.7 5.8-4.4 7.1-2.7-1.4-4.4-4.1-4.4-7.1v-21c0-3 1.7-5.8 4.4-7.1z"/>
+<path class="st0" d="m111.6 99.9 11 11v14.5s8.8 17.1 24.3 23"/>
+<path class="st0" d="m93.9 99.9-11 11v14.5s-8.8 17.1-24.3 23"/>
+<path class="st0" d="m113.8 93.2 19.9 11v11s6.3 11 22.1 17.7"/>
+<path class="st0" d="m91.7 93.2-19.9 11v11s-6.3 11-22.1 17.7"/>
+<path class="st0" d="m107.1 82.2s27.6-8.8 44.2-8.8 11 5.5 11 6.6c0 3.9-6.3 11-18.6 11s-27.9-4.4-36.6-4.4"/>
+<path class="st0" d="m98.3 82.2s-27.6-8.8-44.2-8.8-11 5.5-11 6.6c0 3.9 6.3 11 18.6 11s27.9-4.4 36.6-4.4"/>
+</svg>
